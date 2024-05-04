@@ -29,3 +29,14 @@ What you'll do?
 ### How could the body of the phishing email be improved to make it more believable?
   - Improve the spelling, grammar & sloppy layout
 
+## Improve the phishing email
+![Fake mail](https://github.com/akinyoye2001/Mastercard-Cybersecurity/assets/75481345/aa08cec7-156f-41b9-af49-66804e3ce10a)
+
+To create a ‘good’ phishing email, you should:
+  - Add some context at the beginning - make it relevant to a Mastercard employee
+  - Mask the hyperlink within text
+  - Use correct spelling and grammar
+  - Add points of legitimacy
+
+![Recreated mail](https://github.com/akinyoye2001/Mastercard-Cybersecurity/assets/75481345/93662475-35b8-45b4-8c76-12f589089f85)
+
